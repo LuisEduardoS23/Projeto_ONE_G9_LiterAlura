@@ -191,10 +191,9 @@ Este projeto foi desenvolvido como parte do desafio educacional da Alura + Oracl
 
 ## 👨‍💻 Autor
 
-**Luís Eduardo**
+**Luis Eduardo Silva Soares**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin-aqui)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisEduardoS23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-eduardo-626a60399)
 
 ---
 
@@ -208,6 +207,3 @@ Este projeto foi desenvolvido como parte do programa **Oracle Next Education (ON
 
 **#OracleNextEducation** | **#Alura** | **#Challenge**
 
-Feito com ❤️ por [Luís Eduardo](https://github.com/LuisEduardoS23)
-
-</div>
